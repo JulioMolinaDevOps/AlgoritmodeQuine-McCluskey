@@ -1,1 +1,1 @@
-web: gunicorn trabajov2.main:app
+web: gunicorn main:app
